@@ -10,9 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "vi-VN" #"en-US"
@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Duc Anh"
-  avatar           : "/asets/image/rem.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/rem.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Không có áp lực thì không có kim cương"
   location         : "Hà Nội, Việt Nam"
   email            :
