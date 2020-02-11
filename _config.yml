@@ -38,7 +38,7 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : 10# 5 (default)
+    num_posts            : 10 # 5 (default)
     colorscheme          : "dark" # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
@@ -77,7 +77,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :"https://facebook.com/ducanh.soict"
+google_site_verification : "https://facebook.com/ducanh.soict"
 naver_site_verification  :
 
 # Social Sharing
