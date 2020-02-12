@@ -105,8 +105,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Duc Anh"
-  avatar           : "/assets/image/rem.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Đức Anh"
+  avatar           : "/assets/image/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Không có áp lực thì không có kim cương"
   location         : "Hà Nội, Việt Nam"
   email            :
