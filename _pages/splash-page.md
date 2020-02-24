@@ -11,9 +11,10 @@ header:
     - label: "Learn More"
       url: "/"
   caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "đoạn text vui nhộn số 1"
+excerpt: "Đây là nơi để mọi người có thể tìm hiểu thêm về cuộc sống tẻ nhạt của ĐAnh"
+
 intro: 
-  - excerpt: "Đây là nơi để mọi người có thể tìm hiểu thêm về cuộc sống tẻ nhạt của ĐAnh"
+  - excerpt: #"Đây là nơi để mọi người có thể tìm hiểu thêm về cuộc sống tẻ nhạt của ĐAnh"
 feature_row:
   - image_path: assets/image/technology.jpg
     image_caption: #"Image courtesy of [Unsplash](https://unsplash.com/)"
