@@ -17,13 +17,13 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "vi-VN" #"en-US"
 title                    : "DucAnh's Blog"
-title_separator          : "The Boring World of DucAnh"
+title_separator          : #"The Boring World of DucAnh"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dang Trung Duc Anh"
-description              : ""
-url                      : "hust20172939.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+description              : #""
+url                      : "https://hust20172939.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "hust2017293/hust2017293.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -67,7 +67,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : "lunr" # lunr (default), algolia, google
+search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -84,10 +84,10 @@ Snaver_site_verification  :
 twitter:
   username               :
 facebook               :
-  username               : 'ducanh'
+  username               : 'ducanh.soict'
   app_id                 :
   publisher              :
-og_image                 : assets/image/facebook_share.jpg # Open Graph/Twitter default site image
+og_image                 : assets/image/inosuke.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
