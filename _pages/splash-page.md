@@ -16,20 +16,20 @@ excerpt: "Đây là nơi để mọi người có thể tìm hiểu thêm về c
 intro: 
   - excerpt: #"Đây là nơi để mọi người có thể tìm hiểu thêm về cuộc sống tẻ nhạt của ĐAnh"
 feature_row:
-  - image_path: assets/image/technology.jpg (https://www.facebook.com/ducanh.soict)
+  - image_path: assets/image/technology.jpg 
     image_caption:  #"Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
     title: "Technology" (/categories/technology/)
     #url: /categories/technology/
     excerpt: #"This is some sample content that goes here with **Markdown** formatting."
   - title: "Travel" (/categories/travel/) #"Placeholder 2"
-    image_path: assets/image/travel.jpg (/categories/travel/)
+    image_path: assets/image/travel.jpg 
     alt: "Travel" (/categories/travel/) #"placeholder image 2"
     excerpt: #"This is some sample content that goes here with **Markdown** formatting."
     # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
-  - image_path: assets/image/dailylife.jpg(/categories/opinion/)
+  - image_path: assets/image/dailylife.jpg
     title: "Daily Life"(/categories/opinion/)
     excerpt: #"This is some sample content that goes here with **Markdown** formatting."
 # feature_row2:
