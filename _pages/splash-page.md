@@ -1,5 +1,5 @@
 ---
-title: "Main Page"
+title: "Duc Anh' Blog"
 layout: splash
 permalink: / #/splash-page/
 date: 2016-03-23T11:48:41-04:00
@@ -19,19 +19,26 @@ feature_row:
   - image_path: assets/image/technology.jpg 
     image_caption:  #"Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
-    title: "Technology" #
-    #url: /categories/technology/
-    excerpt: #"This is some sample content that goes here with **Markdown** formatting."
+    title: "Technology" 
+    url: /categories/technology/
+    excerpt: "Một vài công nghệ cơ bản mà Đức Anh học được ở trường" #"This is some sample content that goes here with **Markdown** formatting."
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
   - title: "Travel" #(/categories/travel/) #"Placeholder 2"
     image_path: assets/image/travel.jpg 
     alt: "Travel" #(/categories/travel/) #"placeholder image 2"
-    excerpt: #"This is some sample content that goes here with **Markdown** formatting."
-    # url: "#test-link"
-    # btn_label: "Read More"
-    # btn_class: "btn--primary"
+    excerpt: "Nơi lưu trữ ảnh và những bài review về những vùng đất Đức Anh đã đi qua" #"This is some sample content that goes here with **Markdown** formatting."
+    url: /categories/travel/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/image/dailylife.jpg
-    title: "Daily Life" #(/categories/opinion/)
-    excerpt: #"This is some sample content that goes here with **Markdown** formatting."
+    title: "Opinion" #(/categories/opinion/)
+    excerpt: "Quan điểm, suy nghĩ của Đức Anh về những vấn đề trong cuộc sống" #"This is some sample content that goes here with **Markdown** formatting."
+    url: /categories/opinion/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 # feature_row2:
 #   - image_path: assets/image/rem.jpg
 #     alt: "placeholder image 2"
