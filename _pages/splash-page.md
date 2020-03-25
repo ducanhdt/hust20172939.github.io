@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Main Page"
 layout: splash
 permalink: / #/splash-page/
 date: 2016-03-23T11:48:41-04:00
@@ -11,19 +11,20 @@ header:
     - label: "Learn More"
       url: "/"
   caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Đây là nơi để mọi người có thể tìm hiểu thêm về cuộc sống tẻ nhạt của ĐAnh"
+excerpt: "Đây là nơi để mọi người có thể tìm hiểu thêm về cuộc sống tẻ nhạt của Đức Anh"
 
 intro: 
   - excerpt: #"Đây là nơi để mọi người có thể tìm hiểu thêm về cuộc sống tẻ nhạt của ĐAnh"
 feature_row:
   - image_path: assets/image/technology.jpg
-    image_caption: #"Image courtesy of [Unsplash](https://unsplash.com/)"
+    image_caption: "#image1 caption" #"Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
     title: "Technology"
-    excerpt: #"This is some sample content that goes here with **Markdown** formatting."
-  - image_path: assets/image/travel.jpg
+    url: "https://www.facebook.com/ducanh.soict"
+    excerpt: "#excerpt content" #"This is some sample content that goes here with **Markdown** formatting."
+  - title: "Travel" #"Placeholder 2"
+    image_path: assets/image/travel.jpg
     alt: "Travel" #"placeholder image 2"
-    title: "Travel" #"Placeholder 2"
     excerpt: #"This is some sample content that goes here with **Markdown** formatting."
     # url: "#test-link"
     # btn_label: "Read More"
