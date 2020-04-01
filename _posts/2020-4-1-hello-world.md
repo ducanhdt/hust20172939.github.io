@@ -1,5 +1,7 @@
 ---
 title: "Bài viết đầu tiên"
+header:
+  image: assets/image/post/introduce/download.png
 categories:
   - technology
   - opinion
