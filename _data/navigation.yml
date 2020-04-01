@@ -2,8 +2,6 @@
 main:
   - title: "Resume"
     url: "https://husteduvn-my.sharepoint.com/:b:/g/personal/anh_dtd172939_sis_hust_edu_vn/EVu2Ae7usXNCohe9vVv2ql8B_Y0QtPEyghjPvh7sWbP_-A?e=Qmszjk"
-  - title: "About"
-    url: /about/
   - title: "Posts by tag"
     url: /tags/
   # - title: "Sample Collections"
