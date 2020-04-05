@@ -44,7 +44,7 @@ Ngoài việc học ra thì ở BK còn có rất nhiều các clb, đội nhóm
 
 <figure>
   {{ fig_img1 | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Đội tình nguyện hội sinh viên, một trong rất nhiều đội tình nguyện ở trường. Mình đã may mắn được tham gia 2 mùa hè xanh cùng đội. Một nơi giúp mình quen nhiều bạn mới, mọi người vui chơi làm việc với nhau, với ngọn lửa tình nguyện trong tim.</figcaption>
+  <figcaption>[Đội tình nguyện hội sinh viên](https://www.facebook.com/DTN.HSV.DHBKHN/), một trong rất nhiều đội tình nguyện ở trường. Mình đã may mắn được tham gia 2 mùa hè xanh cùng đội. Một nơi giúp mình quen nhiều bạn mới, mọi người vui chơi làm việc với nhau, với ngọn lửa tình nguyện trong tim.</figcaption>
 </figure>
 
 {% capture fig_img2 %}
@@ -53,7 +53,7 @@ Ngoài việc học ra thì ở BK còn có rất nhiều các clb, đội nhóm
 
 <figure>
   {{ fig_img2 | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>BCH LCD Viện CNTT&TT. Ở đây thì thành viên đến 99% là sinh viện của viện rồi. Bên cạch việc tham gia tổ chức các hoạt đông cho sinh viên Viện còn có các hoạt động như vui chơi, chém gió về họp tập, về lập trình hay thậm chí là rủ nhau đi thi chẳng hạn. Đây là các thành viên BCH LCD trong cuộc thi AIOT 2019 </figcaption>
+  <figcaption>[BCH LCD Viện CNTT&TT](https://www.facebook.com/soict.hust/). Ở đây thì thành viên đến 99% là sinh viện của viện rồi. Bên cạch việc tham gia tổ chức các hoạt đông cho sinh viên Viện còn có các hoạt động như vui chơi, chém gió về họp tập, về lập trình hay thậm chí là rủ nhau đi thi chẳng hạn. Đây là các thành viên BCH LCD trong cuộc thi AIOT 2019 </figcaption>
 </figure>
 
 {% capture fig_img3 %}
@@ -62,7 +62,7 @@ Ngoài việc học ra thì ở BK còn có rất nhiều các clb, đội nhóm
 
 <figure>
   {{ fig_img3 | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>BK Street workout - toàn trâu bò. Học xong ra tập vừa vui vừa nâng cao sức khỏe địa chỉ KTX B5. Cơ mà tập thì ít mà chém gió thì nhiều (đấy là mình thôi :V).</figcaption>
+  <figcaption>[BK Street workout](https://www.facebook.com/SwBKHN/) - toàn trâu bò. Học xong ra tập vừa vui vừa nâng cao sức khỏe địa chỉ KTX B5. Cơ mà tập thì ít mà chém gió thì nhiều (đấy là mình thôi :V).</figcaption>
 </figure>
 
-Oke, Đó là những suy nghĩ của mình sau 3 năm học Bách Khoa. Bài viết cũng khá dài rồi, mình xin phép kết thúc bài viết ở đây dù hơi cụt một chút. Bài viết chắc chắn sẽ có nhiều thiếu sót nên hãy comment ở phía dưới để mình có thể hoàn thiện hơn cho các bài sau nhé. 
+Oke, Đó là những suy nghĩ của mình sau 3 năm học Bách Khoa. Bài viết cũng khá dài rồi nên mình xin phép kết thúc ở đây dù hơi cụt một chút. Bài viết chắc chắn sẽ có nhiều thiếu sót nên hãy comment ở phía dưới để mình có thể hoàn thiện hơn cho các bài sau nhé. 
