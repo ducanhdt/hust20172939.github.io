@@ -1,8 +1,8 @@
 ---
 title: "Review xàm CNTT BKHN"
 header:
-  image: assets/image/post/introduce/download.png
-  og_image: assets/image/post/introduce/download.png
+  image: assets/image/post/bk-review/MYdkQ1FlF7HzslK2xEsDItH6FE6HZ2AJ.jpeg
+  og_image: assets/image/post/bk-review/MYdkQ1FlF7HzslK2xEsDItH6FE6HZ2AJ.jpeg
 categories:
   - opinion
 tags:
