@@ -27,7 +27,7 @@ tags:
 
 Mình bắt đầu tiếp xúc và tìm hiểu về AI (Artificial Intelligence-Trí tuệ nhân tạo) / ML(Machine Learning - học máy) / DL (Deep Learning - Học Sâu) vào khoảng tháng 12 năm 2018 lúc đó là cuối kỳ 3 của năm 2 Đại học. Sau khi làm một số công việc từ bán khóa học online, gia sư, rồi trợ giảng thì mình cảm thấy không hợp, lên trên mạng thì đâu đâu cũng thấy mấy meme như bên dưới mà thấy bảo lập trình giờ cũng nhiều việc Nên mình cũng muốn sẽ tìm một công việc nào đó đúng chuyên ngành một chút để kiếm kinh nghiệm sau đỡ bỡ ngỡ. Ở BK thì học các môn chuyên ngành muộn nên lúc đó mình cũng k có kiến thức gì nhiều. Lập trình cơ bản trên mức tin đại cương một xíu, tự học một chút Arduino nhưng cũng chả liên quan đến ngành. Bởi vậy lúc đó cũng không hi vọng quá nhiều việc nào cũng được, có việc là oke rồi :). Ngồi lướt Facebook một lúc thì thấy chị Hằng - HR ở Infore đăng bài tuyển thực tập sinh, không yêu cầu kinh nghiệm làm DS/DE. Lúc đó cũng chần chừ mãi vì lúc đó AI nghe cao siêu lắm phải não sạn mới theo được, trong khi đi học toán thì toàn B. Sau khi ib chị Hằng hỏi đủ thứ xem chị có đăng nhầm gì không thì mình cũng đánh liều nộp CV, trước khi đi thì không quên rủ 2 thằng bạn là Thanh Đức và Đức Cường nộp cùng cho có bạn có bè. Cũng không hi vọng gì nhiều hên là cả 3 đều pass.   
 
-## Vậy là chuỗi ngày cày quốc bắt đầu. 
+## Vậy là chuỗi ngày cày cuốc bắt đầu. 
 
 ### Lên kế hoạch
 
