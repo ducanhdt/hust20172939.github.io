@@ -4,7 +4,7 @@ header:
   image: assets/image/post/How-to-become-DS-Part1/main.jpg
   og_image: assets/image/post/How-to-become-DS-Part1/main.jpg
 categories:
-  - Technology
+  - technology
 tags:
   - AI
   - Experience
