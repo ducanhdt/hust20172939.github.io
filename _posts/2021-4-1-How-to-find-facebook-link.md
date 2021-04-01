@@ -1,5 +1,7 @@
 ---
 title: "Tìm Link Facebook đúng cách"
+header:
+  og_image: assets/image/facebook_share.jpg
 categories:
   - technology
 tags:
